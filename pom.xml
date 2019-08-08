@@ -8,5 +8,9 @@
     <artifactId>seMethods</artifactId>
     <version>0.1.0.1</version>
 
+    <properties>
+    <maven.complier.source>1.8</maven.complier.source>
+    <maven.complier.target>1.8</maven.complier.target>
+    </properties>
 
 </project>
