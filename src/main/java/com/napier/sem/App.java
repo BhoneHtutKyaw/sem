@@ -4,6 +4,7 @@ public class App
 {
     public static void main(String[] args)
     {
-        System.out.println("yah boo!");
+        System.out.println("Yah boo!");
+        System.out.println("Boo yah!");
     }
 }    
